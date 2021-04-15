@@ -550,7 +550,7 @@ public class Register extends javax.swing.JFrame {
     private void jMenuItem4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem4ActionPerformed
         // About MenuItem
          JOptionPane.showMessageDialog(null, 
-                    "Design & develop By INCAPP!!");
+                    "Design & develop By PRABHAT!!");
     }//GEN-LAST:event_jMenuItem4ActionPerformed
 
     
