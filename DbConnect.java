@@ -12,7 +12,7 @@ public class DbConnect {
         try{
             Class.forName("com.mysql.jdbc.Driver");
             c=DriverManager.getConnection(
-   "jdbc:mysql://localhost:3306/clientsol11", "root","incapp");
+   "jdbc:mysql://localhost:3306/CustomerDet", "root","incapp");
             st=c.createStatement();
             insertClient=c.prepareStatement("insert into "
       + "client_info (name,gender,dob,country,address,"
