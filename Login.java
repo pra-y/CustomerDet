@@ -46,7 +46,7 @@ public class Login extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Login(Client Sol)");
+        setTitle("Login(Customer Det)");
         setResizable(false);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
